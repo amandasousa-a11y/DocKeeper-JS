@@ -77,5 +77,4 @@ No mesmo terminal, digite o comando abaixo para "abrir" a pasta que acabou de se
 Agora, digite o comando final para executar o sistema e aperte ENTER:
 
 **node index.js**
-rio
-Abra o seu VS Code e execute o comando abaixo para baixar uma cópia do código:
+
